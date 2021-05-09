@@ -1,0 +1,2 @@
+class TaskController < DashboardController
+end
